@@ -6,7 +6,7 @@ The code is presented using the following technologies:
 
 * Maven
 * Spring-boot (version 2.1)
-*-* Java (8 or 11)
+* Java (8 or 11)
 
 You're going to need a developer machine with Java and Maven installed.
 The code uses  a ConcurrentLinkedQueue and a ScheduledExecutorService to 
